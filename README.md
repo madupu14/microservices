@@ -22,3 +22,14 @@
 					</execution>
 				</executions>
 			</plugin>
+
+
+
+
+
+
+
+
+
+   clean org.jacoco:jacoco-maven-plugin:prepare-agent install
+sonar:sonar -Dsonar.login=sqa_49bca2fca1deb861c1210799e63b5f3c306984f3 
