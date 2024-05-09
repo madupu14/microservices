@@ -1,4 +1,8 @@
-	<plugin>
+
+https://laas.makemylabs.in/wsm/EYGDS-AWS-B14-skip20240507071728?invitation_id=ca84296e-d26b-43c1-89cc-32f122768603&context=True
+ 
+ 
+ <plugin>
 				<groupId>org.sonarsource.scanner.maven</groupId>
 				<artifactId>sonar-maven-plugin</artifactId>
 				<version>3.11.0.3922</version>
