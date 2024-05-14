@@ -1,6 +1,14 @@
 student-service-0.0.1-SNAPSHOT.jar
 docker pull madupu/alu-student-service
  
+
+<dependency>
+	<groupId>org.springdoc<groupId> 
+	<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+	<version>2.5.0</version>  
+</dependency>
+
+
  
  <plugin>
 				<groupId>org.sonarsource.scanner.maven</groupId>
