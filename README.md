@@ -1,4 +1,7 @@
+https://laas.makemylabs.in/wsm/EYGDS-AWS-B14-skip20240507071728?invitation_id=ca84296e-d26b-43c1-89cc-32f122768603&context=True
 
+awsuser2932@mml.local
+ktYUvbJt
  
  
  <plugin>
