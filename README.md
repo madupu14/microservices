@@ -1,11 +1,17 @@
-
+for feignclient
+<dependency>
+    <groupId>org.springframework.cloud</groupId>
+    <artifactId>spring-cloud-openfeign-core</artifactId>
+</dependency>
  
 
+for swagger
 <dependency>
-	<groupId>org.springdoc<groupId> 
-	<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-	<version>2.5.0</version>  
-</dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+            <version>2.0.2</version>
+        </dependency>
+
 
 
  
