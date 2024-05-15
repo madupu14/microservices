@@ -1,34 +1,4 @@
-Create Spring Boot Project using h2 database
-Create Product Management Project (using microservices) (Don't create registry and api)
-Create 2 Microservices.
-1.Product - (id, type), All fields are mandatory (type should be mobile, laptop)
-Create API
-Get Prodcut By ld;
-Get Products By type;
-Get ProductsAndDesc by id;
-Post new Product
-2. ProductDescription (id,brand,model, prize ) All fields are mandatory
-Create API
-Get byid;
-Post new ProductDescription
 
-Test them and keep in your system.
-Do it in your VM provided by IIHT.
-Do maven clean and zip the file.
-Push this 2 microservices on github and send the
-Zip files and links to github only; ( No jars should be uploaded )
-
-
-Create a docker image of microservice I and 2;
-Push them on docker hub.
-Pull them on AWS EC2 instance
-Test it from your Rest Client( VS Code Thunder Client or Postman)
-
-
-
-
-student-service-0.0.1-SNAPSHOT.jar
-docker pull madupu/alu-student-service
  
 
 <dependency>
